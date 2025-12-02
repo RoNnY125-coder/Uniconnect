@@ -1,0 +1,11 @@
+
+  # Campus Hub App
+
+  This is a code bundle for Campus Hub App. The original project is available at https://www.figma.com/design/tYDMBxumCsgsH4nkIBDXQr/Campus-Hub-App.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
